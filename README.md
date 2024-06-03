@@ -1,1 +1,1 @@
-# miss-o-refletindo-sobre-intelig-ncia-artificial
+refletindo-sobre-intelig-ncia-artificial
