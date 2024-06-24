@@ -35,11 +35,11 @@ const perguntas = [
         enunciado: "Em uma das aulas ocorridas, o assunto foi colocado em pauta. O docente propõe que os estudantes utilizem essa nova tecnologia para desenvolver uma pesquisa. Como você realiza essa tarefa?",
         alternativas: [
             {
-                texto: "UTiliza as informações fornecidas pela IA e não vê necessidade em fazer alterações nas informações obtidas, pois acredita em sua veracidade.",
+                texto: "Utiliza as informações fornecidas pela IA e não vê necessidade em fazer alterações nas informações obtidas, pois acredita em sua veracidade.",
                 afirmacao: "Obtém confiança nas informações que a IA proporciona."
             },
             {
-                texto: "Prefere utilizar as informções fornecidas pela IA apenas em poucas partes da pesquisa e vê a necessidade de buscar outras fontes de informação que podem transmitir maior confiança.",
+                texto: "Prefere utilizar as informações fornecidas pela IA apenas em poucas partes da pesquisa e vê a necessidade de buscar outras fontes de informação que podem transmitir maior confiança.",
                 afirmacao: "Prefere utilizar seus próprios métodos e dispensa a ajuda da IA."
             }
         ]
